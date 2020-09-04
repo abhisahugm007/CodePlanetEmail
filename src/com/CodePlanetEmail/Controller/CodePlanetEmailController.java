@@ -51,7 +51,7 @@ public class CodePlanetEmailController {
 				"          </a>\r\n" + 
 				"          <nav class=\"md:ml-auto flex flex-wrap items-center text-base justify-center\">\r\n" + 
 				"            <a href=\"https://www.codeplanet.co.in/\" class=\"ml-3 text-xl\">CodePlanet</a>\r\n" + 
-				"            <a href=\"https://calendar.google.com/calendar/r/eventedit/NzJmYXNza3IzbnE4aHFncXJpbm81ZHE4ZDggYWJoaXNhaHVnbTAwN0Bt\" class=\"ml-3 text-xl\">AddToCalender</a>\r\n" + 
+				"             <a href=\"http://www.google.com/calendar/event?action=TEMPLATE&text=CodePlanet%20New%20Batches&dates=20200910T130000/20200910T140000&details=New%20Java%20Batches%20Starts%20Soon%20Join%20Fast&location=Pratap%20Nagar%2C%20CodePlanet%20Technologies%2C%20Jaipur\" class=\"ml-3 text-xl\">Add to Google Calendar</a>\r\n" + 
 				"          </nav>\r\n" + 
 				"        </div>\r\n" + 
 				"      </header>\r\n" + 
